@@ -4,6 +4,8 @@ import com.nhclub.keyrena.domain.comment.model.request.CommentRequestDto;
 import com.nhclub.keyrena.domain.post.model.entity.Post;
 import com.nhclub.keyrena.global.timestamp.Timestamp;
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
